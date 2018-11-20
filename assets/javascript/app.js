@@ -21,9 +21,44 @@ var questions = [
     choicesAnswer: 1
     },
     {
-        question: "what is the type of car that Michael Scott drives?",
-        choices: ["Chevy Corvette", "Chrysler Sebring", "Toyota Camry", "Honda Accord"],
+        question: "In S1E1 'Pilot', who started their first day at Dunder Mifflin Scranton?",
+        choices: ["Michael Scott", "Jim Halpert", "Erin Hannon", "Ryan Howard"],
+        choicesAnswer: 3
+    },
+    {
+        question: "In S1E3 'Health Care': Which of these is NOT one of Jim and Pam's made up diseases?",
+        choices: ["Killer Nanorobots", "Hot Dog Fingers", "Spontaneous Dental Hydroplosion", "Hair Cancer"],
+        choicesAnswer: 3
+    },
+    {
+        question: "In the episode 'Office Olympics,' what does Pam name her 'Box of Paper Shoe Racing' game?",
+        choices: ["Flonkerton", "Icelandic Snowshoe Racing", "Bixing", "Pegerhosen"],
+        choicesAnswer: 0
+    },
+    {
+        question: "Dwight Schrute is a man of many trades. What is the main product of his highly successful family farm?",
+        choices: ["Pumpkins", "Livestock", "Beets", "Corn"],
+        choicesAnswer: 2
+    },
+    {
+        question: "Who is Michael Scott's BFF?",
+        choices: ["Jim Halpert", "Todd Packer", "Toby Flenderson", "Stanley Hudson"],
         choicesAnswer: 1
+    },
+    {
+        question: "What is the name of the security guard at the Scranton branch?",
+        choices: ["Louie", "Derek", "Dave", "Hank"],
+        choicesAnswer: 3
+    },
+    {
+        question: "What a capella group did Andy Bernard sing in at Cornell?",
+        choices: ["Pitch Slapped", "Here Comes Treble", "Chord on Blues", "Shirley Tempos"],
+        choicesAnswer: 1
+    },
+    {
+        question: "Which Office member won an event at the World Series of Poker?",
+        choices: ["Kevin Malone", "Oscar Martinez", "Kelly Kapoor", "Creed Bratton"],
+        choicesAnswer: 0
     }];
 
 //function to submit answers
