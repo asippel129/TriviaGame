@@ -1,0 +1,25 @@
+body{
+    background-image: url(../images/cheap_diagonal_fabric.png);
+}
+#heading {
+    text-align: center;
+    font-family:courier, courier new, serif;
+    font: white;
+
+}
+
+#twd-jumbo {
+    /* background: url("../images/theoffice.png") */
+    background-color: black;
+
+}
+
+img {
+    height:120px;
+    float:left;
+    margin-left:10px;
+}
+
+.container {
+    background-color: lightblue;
+}

@@ -16,7 +16,7 @@ var userAns = [];
 //creating an array of our questions, our answer options, and the corrects answers(indicated by the index that it appears in the array), in object form
 var questions = [
     {
-    question: "what is the type of car that Michael Scott drives?",
+    question: "What is the type of car that Michael Scott drives?",
     choices: ["Chevy Corvette", "Chrysler Sebring", "Toyota Camry", "Honda Accord"],
     choicesAnswer: 1
     },
